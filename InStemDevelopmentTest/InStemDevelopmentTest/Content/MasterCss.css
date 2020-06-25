@@ -1,0 +1,38 @@
+﻿body 
+{
+    
+}
+.tableStyle {
+    left:100px;
+    padding:10px;   
+    margin:10PX;
+    vertical-align:top;
+    align-content:center
+}
+.tabletd
+{
+    padding:10px;
+}
+.divImage 
+{
+    left:100px;
+    width:400px;
+    height:300px;    
+}
+.mGrid1 {
+    width: 100%;
+    font-family: tahoma;
+}
+
+    .mGrid1 td /* this applies to the Gridviews Data ffields */ {
+        padding: 1px;
+        text-align: center;
+        width: 3%;
+        border: solid 1px black;
+        border-collapse: collapse;
+    }
+
+    .mGrid1 th /* this applies to the Gridviews Headers */ {
+        padding: 0px 0px;
+        border-width: 1px;
+    }
